@@ -9,6 +9,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Floreroo&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/Floreroo)
-![Floreroo stats :3](https://github-readme-stats.vercel.app/api?username=Floreroo&show_icons=true&theme=radical)
-
 
